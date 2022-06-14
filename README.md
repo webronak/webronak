@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/ronak-singh-8a11101a6/">Linkedin</a> 
 </p>
 
-I'm a __frontend developer__ based in __India__. I am a tech ethusiast and explorer.
+I'm a __frontend developer__ based in __India__. I am a tech enthusiast and explorer.
 
 * 💼 Currently working at [Fyntune](https://www.fyntune.com/) as a React js developer / Front-end developer.
 
