@@ -7,8 +7,6 @@
 
 I'm a __frontend developer__ based in __India__. I am a tech enthusiast and explorer.
 
-* 💼 Currently working at [Fyntune](https://www.fyntune.com/) as a React js developer / Front-end developer.
-
 ## My skills
 
 <p align="center">
