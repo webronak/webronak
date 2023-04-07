@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  <a href="https://webronak.github.io/my-portfolio/">Website</a> •
+  <a href="https://my-portfolio-webronak.vercel.app/">Website</a> •
   <a href="https://www.linkedin.com/in/ronak-singh-8a11101a6/">Linkedin</a> 
 </p>
 
